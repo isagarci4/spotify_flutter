@@ -1,6 +1,6 @@
 # flutter_spotify
 
-A new Flutter project.
+Um projeto que tem como objetivo consumir a API do Spotify
 
 ## Getting Started
 
